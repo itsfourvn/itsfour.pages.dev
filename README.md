@@ -1,3 +1,16 @@
+```text
+Source My Website
+Copyright (C) 2026 itsfourvn
+
+Chương trình này là phần mềm tự do: bạn có thể phân phối lại và/hoặc sửa đổi nó
+theo các điều khoản của GNU Affero General Public License do Free Software
+Foundation phát hành, theo phiên bản 3 của Giấy phép hoặc (tùy chọn của bạn)
+bất kỳ phiên bản nào sau này.
+
+Chương trình này được phân phối với hy vọng nó hữu ích, nhưng KHÔNG CÓ BẤT KỲ
+BẢO ĐẢM NÀO; kể cả bảo đảm ngụ ý về KHẢ NĂNG THƯƠNG MẠI hoặc SỰ PHÙ HỢP CHO
+MỘT MỤC ĐÍCH CỤ THỂ. Xem GNU Affero General Public License để biết thêm chi tiết.
+```
 # GNU AFFERO GENERAL PUBLIC LICENSE
 
 ## Bản dịch tiếng Việt, tham khảo!
@@ -44,25 +57,4 @@ Bạn có thể tạo, chạy và truyền bá tác phẩm được bao phủ m�
 Việc chuyển giao trong các trường hợp khác chỉ được phép theo những điều kiện bên dưới. Không được cấp giấy phép thứ cấp; mục 10 khiến việc đó không cần thiết.
 
 
-```text
-<một dòng ghi tên chương trình và mô tả ngắn>
-Copyright (C) <năm> <tên tác giả>
 
-Chương trình này là phần mềm tự do: bạn có thể phân phối lại và/hoặc sửa đổi nó
-theo các điều khoản của GNU Affero General Public License do Free Software
-Foundation phát hành, theo phiên bản 3 của Giấy phép hoặc (tùy chọn của bạn)
-bất kỳ phiên bản nào sau này.
-
-Chương trình này được phân phối với hy vọng nó hữu ích, nhưng KHÔNG CÓ BẤT KỲ
-BẢO ĐẢM NÀO; kể cả bảo đảm ngụ ý về KHẢ NĂNG THƯƠNG MẠI hoặc SỰ PHÙ HỢP CHO
-MỘT MỤC ĐÍCH CỤ THỂ. Xem GNU Affero General Public License để biết thêm chi tiết.
-
-Bạn đáng lẽ đã nhận được một bản sao GNU Affero General Public License cùng
-chương trình này. Nếu chưa, xem <https://www.gnu.org/licenses/>.
-```
-
-Đồng thời bổ sung thông tin liên hệ với bạn qua thư điện tử và thư giấy.
-
-Nếu phần mềm có thể tương tác từ xa với người dùng qua mạng máy tính, hãy cung cấp cách để người dùng nhận mã nguồn của phần mềm. Ví dụ, giao diện ứng dụng web có thể hiển thị liên kết “Mã nguồn” dẫn tới kho lưu trữ mã. Có nhiều cách thực hiện và cách phù hợp tùy chương trình; xem mục 13 để biết yêu cầu cụ thể.
-
-Nếu cần, hãy yêu cầu người sử dụng lao động (nếu bạn là lập trình viên) hoặc trường học ký văn bản từ bỏ quyền bản quyền đối với chương trình. Để biết thêm về cách áp dụng và tuân thủ GNU AGPL, xem <https://www.gnu.org/licenses/>.
