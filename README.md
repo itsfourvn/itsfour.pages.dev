@@ -1,18 +1,13 @@
 
 # Source itsfour Website
 
-## Phát hành lần đầu, ngày 19 tháng 10 năm 2026
+#### -# `Copyright (C) 2026 itsfourvn` #-
 
-**`Copyright (C) 2026 itsfourvn`**
+`Phát hành lần đầu, ngày 19 tháng 10 năm 2026`
 
-> Chương trình này là phần mềm tự do: bạn có thể phân phối lại và/hoặc sửa đổi nó
-theo các điều khoản của GNU Affero General Public License do Free Software
-Foundation phát hành, theo phiên bản 3 của Giấy phép hoặc (tùy chọn của bạn)
-bất kỳ phiên bản nào sau này.
+> ###### Chương trình này là phần mềm tự do: bạn có thể phân phối lại và/hoặc sửa đổi nó theo các điều khoản của GNU Affero General Public License do Free Software Foundation phát hành, theo phiên bản 3 của Giấy phép hoặc (tùy chọn của bạn) bất kỳ phiên bản nào sau này.
 
->Chương trình này được phân phối với hy vọng nó hữu ích, nhưng KHÔNG CÓ BẤT KỲ
-BẢO ĐẢM NÀO; kể cả bảo đảm ngụ ý về KHẢ NĂNG THƯƠNG MẠI hoặc SỰ PHÙ HỢP CHO
-MỘT MỤC ĐÍCH CỤ THỂ. Xem GNU Affero General Public License để biết thêm chi tiết.
+> ###### Chương trình này được phân phối với hy vọng nó hữu ích, nhưng KHÔNG CÓ BẤT KỲ BẢO ĐẢM NÀO; kể cả bảo đảm ngụ ý về KHẢ NĂNG THƯƠNG MẠI hoặc SỰ PHÙ HỢP CHO MỘT MỤC ĐÍCH CỤ THỂ. Xem GNU Affero General Public License để biết thêm chi tiết.
 
 
 ---
