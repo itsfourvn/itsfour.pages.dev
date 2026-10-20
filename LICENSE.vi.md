@@ -1,6 +1,6 @@
 # GNU AFFERO GENERAL PUBLIC LICENSE
 
-## Bản dịch tiếng Việt, tham khảo không chính thức
+## Bản dịch tiếng Việt, tham khảo!
 
 **Phiên bản 3, ngày 19 tháng 11 năm 2007**
 
@@ -12,7 +12,7 @@
 
 Bản dịch này không thay thế và không xác định điều kiện phân phối của phần mềm; chỉ văn bản tiếng Anh gốc trong tệp `LICENSE` làm việc đó.
 
-You may publish this translation, modified or unmodified, only under the terms at <https://www.gnu.org/licenses/translations.html>.
+This translation has been published in accordance with the terms at <https://www.gnu.org/licenses/translations.html>.
 
 ---
 
