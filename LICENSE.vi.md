@@ -1,10 +1,12 @@
 # GNU AFFERO GENERAL PUBLIC LICENSE
 
-## Bản dịch tiếng Việt
+## Bản dịch tiếng Việt, tham khảo không chính thức
 
 **Phiên bản 3, ngày 19 tháng 11 năm 2007**
 
 > This is an unofficial translation of the GNU Affero General Public License into Vietnamese. It was not published by the Free Software Foundation, and does not legally state the distribution terms for software that uses the GNU AGPL—only the original English text of the GNU AGPL does that. However, we hope that this translation will help Vietnamese speakers understand the GNU AGPL better.
+
+>Ceci est une traduction non officielle de la GNU GPL (licence publique générale GNU) en français. Elle n'a pas été publiée par la Free Software Foundation et n'établit pas juridiquement les termes de distribution des logiciels qui utilisent la GNU GPL – seul le texte anglais original de la GNU GPL le fait. Cependant, nous espérons que cette traduction aidera les francophones à mieux comprendre la GNU GPL.
 
 > Đây là bản dịch không chính thức GNU Affero General Public License sang tiếng Việt. Bản dịch không do Free Software Foundation (FSF) phát hành và không có hiệu lực xác định điều kiện phân phối của phần mềm dùng GNU AGPL; chỉ văn bản tiếng Anh gốc của GNU AGPL làm việc đó. Chúng tôi hy vọng bản dịch giúp người đọc tiếng Việt hiểu GNU AGPL rõ hơn.
 
