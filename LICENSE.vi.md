@@ -1,6 +1,6 @@
 # GNU AFFERO GENERAL PUBLIC LICENSE
 
-## Bản dịch tiếng Việt tham khảo, không chính thức
+## Bản dịch tiếng Việt
 
 **Phiên bản 3, ngày 19 tháng 11 năm 2007**
 
