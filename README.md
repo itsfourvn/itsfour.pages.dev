@@ -1,9 +1,9 @@
 
-# Source My Website
+# Source itsfour Website
 
-## `Copyright (C) 2026 itsfourvn`
+## Phát hành lần đầu, ngày 19 tháng 10 năm 2026
 
-**Phiên bản 3, ngày 19 tháng 11 năm 2007**
+`**Copyright (C) 2026 itsfourvn**`
 
 > Chương trình này là phần mềm tự do: bạn có thể phân phối lại và/hoặc sửa đổi nó
 theo các điều khoản của GNU Affero General Public License do Free Software
