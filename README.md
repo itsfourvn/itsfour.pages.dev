@@ -3,7 +3,7 @@
 
 ## Phát hành lần đầu, ngày 19 tháng 10 năm 2026
 
-`**Copyright (C) 2026 itsfourvn**`
+**`Copyright (C) 2026 itsfourvn`**
 
 > Chương trình này là phần mềm tự do: bạn có thể phân phối lại và/hoặc sửa đổi nó
 theo các điều khoản của GNU Affero General Public License do Free Software
